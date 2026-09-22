@@ -4,7 +4,7 @@ An interactive FIFA World Cup analytics and 2026 prediction dashboard built usin
 
 ## 🚀 Live Demo
 
-![Open the FIFA World Cup Analytics Dashboard](https://fifa-world-cup-analytics-gtqlkm99fpspmefxtvuncl.streamlit.app/)
+[Open the FIFA World Cup Analytics Dashboard](https://fifa-world-cup-analytics-gtqlkm99fpspmefxtvuncl.streamlit.app/)
 
 ## 📊 Features
 
