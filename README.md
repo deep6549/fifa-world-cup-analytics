@@ -41,3 +41,24 @@ fifa-world-cup-analytics/
 ├── requirements.txt
 ├── .gitignore
 └── fifa_background.jpg
+
+## ⚙️ Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/deep6549/fifa-world-cup-analytics.git
+cd fifa-world-cup-analytics
+```
+
+Install the dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the Streamlit application:
+
+```bash
+streamlit run app.py
+```
