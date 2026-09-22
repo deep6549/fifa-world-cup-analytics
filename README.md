@@ -1,30 +1,43 @@
-# FIFA World Cup Analytics
+# 🏆 FIFA World Cup Analytics
 
 An interactive FIFA World Cup analytics and 2026 prediction dashboard built using Python, Pandas, Plotly, and Streamlit.
 
-## Features
+## 🚀 Live Demo
 
-- FIFA World Cup historical analysis
-- Team statistics and appearances
+[Open the FIFA World Cup Analytics Dashboard](https://fifa-world-cup-analytics-gtqlkm99fpspmefxtvuncl.streamlit.app/)
+
+## 📊 Features
+
+- Historical FIFA World Cup tournament analysis
+- Team statistics and World Cup appearances
 - Historical match analysis
-- Head-to-head comparison
+- Head-to-head team comparison
 - Top scorers analysis
-- 2026 World Cup team and group analysis
-- Group difficulty analysis
+- 2026 World Cup team analysis
+- 2026 group difficulty analysis
 - 2026 coaches information
-- 2026 match prediction analysis
+- 2026 prediction analysis
 - Interactive charts and visualizations
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Python
 - Pandas
 - Plotly
 - Streamlit
+- Scikit-learn
 - Machine Learning
 
-## How to Run
+## 📁 Project Structure
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+```text
+fifa-world-cup-analytics/
+│
+├── data/
+│   ├── World Cup datasets
+│   └── 2026 prediction datasets
+│
+├── app.py
+├── requirements.txt
+├── .gitignore
+└── fifa_background.jpg
